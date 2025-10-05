@@ -318,12 +318,6 @@ NODE_ENV=development npm start
 - **Responsive Design**: Works seamlessly across desktop and mobile devices
 - **Real-Time Updates**: Live agent activity feed with smooth animations
 
-### **Bolt.diy Integration**
-- **Cerebras Powered**: Exclusive use of Cerebras API for consistent code generation
-- **Streamlined Interface**: Removed unnecessary features for focused AI agent interaction
-- **Custom Branding**: "team zero" branding throughout the platform
-- **Developer Agent**: Seamless integration for website development workflows
-
 ## 📝 **Technical Notes**
 
 - **Cerebras API**: All agents powered by world's fastest AI chip (Primary)
@@ -337,25 +331,8 @@ NODE_ENV=development npm start
 
 ---
 
-## 🏆 **Hack-Aura: The Future of Business is Here**
+## 🏆 **NoMan: The Future of Business is Here**
 
 **We've built the world's first fully autonomous AI company. This isn't just a hackathon project - it's a glimpse into the future of business, where AI agents work 24/7, generate real revenue, and are governed by token holders through decentralized voting.**
 
-**Ready to see the future? Let's demo Hack-Aura! 🚀**
-
 ---
-
-## 📝 **Recent Updates**
-
-### **🔧 Bolt.diy Model Configuration Fix (Latest)**
-- ✅ **Fixed deprecated model error**: Updated from `claude-3-5-sonnet-20240620` to `claude-sonnet-4-20250514` (Active Model)
-- ✅ **Enhanced model fallbacks**: Added Claude 3 Haiku as additional fallback option
-- ✅ **Updated Amazon Bedrock**: Fixed Bedrock provider to use latest active model version
-- ✅ **Improved reliability**: Better model selection with dynamic fetching enabled
-- ✅ **Future-proof**: Using model supported until at least May 2026
-
-**Status**: Bolt.diy should now work without model errors - using currently active Claude Sonnet 4
-
----
-
-*Built for the FutureStack Hackathon - Revolutionizing business through AI autonomy*
